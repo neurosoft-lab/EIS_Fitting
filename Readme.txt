@@ -4,7 +4,7 @@ EIS FITTING - USER MANUAL
 1. PURPOSE
 
 EIS Fitting performs geometry-resolved electrochemical impedance spectroscopy
-fitting for DCH, untreated DCH, and ICH in Overlap, Length, Angle, and Width
+fitting for DCH, ap-DCH, and ICH in Overlap, Length, Normalized interconnect area, and Width
 studies. It supports single-study fitting and sequential batch fitting.
 
 The standard workflow jointly fits four independent devices using replicate 1
@@ -53,12 +53,12 @@ Place data under the following hierarchy:
 Study folder names:
     1_Overlap
     2_Length
-    3_Angle
+    3_Normalized interconnect area
     4_Width
 
 Material folder names:
     DCH
-    DCH (untreated)
+    ap-DCH
     ICH
 
 Each material folder must contain Device1 through Device4. Each device must
@@ -86,14 +86,14 @@ that the specimen dimensions match these definitions before fitting new data.
 7) Inspect the Results and Log tabs. Use Pause, Resume, or Stop as needed.
    Stopping waits for a safe checkpoint and result export; it is not immediate.
 
-Fit Overlap first for each material. Length, Angle, and Width use the matching
+Fit Overlap first for each material. Length, Normalized interconnect area, and Width use the matching
 material's Overlap reference in a fixed-then-bounded-release workflow.
 
 6. BATCH FITTING AND REFERENCES
 
 In Batch fit, double-click a task to switch its Run setting between Yes and No.
 Click Run selected after confirming that the selected tasks have input data.
-The default order is Overlap, Length, Angle, then Width, for all materials.
+The default order is Overlap, Length, Normalized interconnect area, then Width, for all materials.
 Batch fitting uses model default parameters and the displayed search settings;
 parameter edits in Single fit apply to single fits.
 
@@ -128,9 +128,12 @@ Detailed model equations and assumptions are in 03_Bin/README.md.
 Run these commands from the EIS_Fitting folder:
 
     Launch.bat single --study Overlap --material DCH --workers 4
-    Launch.bat single --study Overlap --material "DCH (untreated)"
+    Launch.bat single --study Overlap --material "ap-DCH"
+    Launch.bat single --study "Normalized interconnect area" --material ap-DCH
     Launch.bat batch
     Launch.bat resume "path/to/completed/result" --batches 1
+
+Study names containing spaces must be enclosed in double quotes.
 
 For available options:
 

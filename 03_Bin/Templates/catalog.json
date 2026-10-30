@@ -1,0 +1,1924 @@
+{
+  "datasets": [
+    {
+      "id": "Overlap_DCH",
+      "material": "DCH",
+      "study": "Overlap",
+      "training": true,
+      "batch": "Overlap_DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 7500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 6000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 5000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 4000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 3000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Overlap_ap-DCH",
+      "material": "ap-DCH",
+      "study": "Overlap",
+      "training": true,
+      "batch": "Overlap_ap-DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 7500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 6000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 5000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 4000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 3000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Overlap_ICH",
+      "material": "ICH",
+      "study": "Overlap",
+      "training": true,
+      "batch": "Overlap_ICH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 7500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 6000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 5000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 4000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 3000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1500.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 1000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Length_DCH",
+      "material": "DCH",
+      "study": "Length",
+      "training": true,
+      "batch": "Length_DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 6500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 5000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 4000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 3000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Length_ap-DCH",
+      "material": "ap-DCH",
+      "study": "Length",
+      "training": true,
+      "batch": "Length_ap-DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 6500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 5000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 4000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 3000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Length_ICH",
+      "material": "ICH",
+      "study": "Length",
+      "training": true,
+      "batch": "Length_ICH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 6500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 5000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 4000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 3000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Normalized_interconnect_area_DCH",
+      "material": "DCH",
+      "study": "Normalized interconnect area",
+      "training": true,
+      "batch": "Normalized_interconnect_area_DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1950.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 50.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1900.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Normalized_interconnect_area_ap-DCH",
+      "material": "ap-DCH",
+      "study": "Normalized interconnect area",
+      "training": true,
+      "batch": "Normalized_interconnect_area_ap-DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1950.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 50.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1900.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Normalized_interconnect_area_ICH",
+      "material": "ICH",
+      "study": "Normalized interconnect area",
+      "training": true,
+      "batch": "Normalized_interconnect_area_ICH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1950.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 50.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1900.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1200.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 800.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 1500.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 20.0,
+              "region": "body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Width_DCH",
+      "material": "DCH",
+      "study": "Width",
+      "training": true,
+      "batch": "Width_DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 250.0,
+              "width_end_um": 250.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 200.0,
+              "width_end_um": 200.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 150.0,
+              "width_end_um": 150.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 100.0,
+              "width_end_um": 100.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 50.0,
+              "width_end_um": 50.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 30.0,
+              "width_end_um": 30.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 20.0,
+              "width_end_um": 20.0,
+              "region": "neck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Width_ap-DCH",
+      "material": "ap-DCH",
+      "study": "Width",
+      "training": true,
+      "batch": "Width_ap-DCH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 250.0,
+              "width_end_um": 250.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 200.0,
+              "width_end_um": 200.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 150.0,
+              "width_end_um": 150.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 100.0,
+              "width_end_um": 100.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 50.0,
+              "width_end_um": 50.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 30.0,
+              "width_end_um": 30.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 20.0,
+              "width_end_um": 20.0,
+              "region": "neck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Width_ICH",
+      "material": "ICH",
+      "study": "Width",
+      "training": true,
+      "batch": "Width_ICH",
+      "replicate": 1,
+      "data_dir": "",
+      "geometry": [
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 250.0,
+              "width_end_um": 250.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 200.0,
+              "width_end_um": 200.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 150.0,
+              "width_end_um": 150.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 100.0,
+              "width_end_um": 100.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 50.0,
+              "width_end_um": 50.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 30.0,
+              "width_end_um": 30.0,
+              "region": "neck"
+            }
+          ]
+        },
+        {
+          "overlap_length_um": 2000.0,
+          "overlap_width_um": 300.0,
+          "thickness_um": 10.0,
+          "bulk": [
+            {
+              "length_um": 2000.0,
+              "width_start_um": 300.0,
+              "width_end_um": 300.0,
+              "region": "body"
+            },
+            {
+              "length_um": 100.0,
+              "width_start_um": 20.0,
+              "width_end_um": 20.0,
+              "region": "neck"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
